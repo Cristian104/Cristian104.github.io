@@ -12,7 +12,7 @@ The portfolio is built using the following technologies:
 
 ## How to View the Portfolio
 
-To view the portfolio, simply open the `index.html` file in your web browser. Alternatively, you can visit the live website at [https://yourportfolio.com](https://yourportfolio.com).
+To view the portfolio, simply open the `index.html` file in your web browser. Alternatively, you can visit the live website at [cristian104.github.io](cristian104.github.io).
 
 ## Contributing
 
@@ -20,4 +20,4 @@ If you have any suggestions for how I can improve my portfolio, please feel free
 
 ## Contact
 
-If you have any questions or comments about my portfolio, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com). Thank you for your interest!
+If you have any questions or comments about my portfolio, feel free to reach out to me at [canteen-deeps0a@icloud.com](mailto:canteen-deeps0a@icloud.com). Thank you for your interest!
