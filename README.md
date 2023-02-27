@@ -12,7 +12,7 @@ The portfolio is built using the following technologies:
 
 ## How to View the Portfolio
 
-To view the portfolio, simply open the `index.html` file in your web browser. Alternatively, you can visit the live website at [https://cristian104.github.io/](cristian104.github.io).
+To view the portfolio, simply open the `index.html` file in your web browser. Alternatively, you can visit the live website at [cristian104.github.io](https://cristian104.github.io).
 
 ## Contributing
 
